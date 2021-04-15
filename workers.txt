@@ -1,0 +1,5 @@
+Ivanov 80000
+Petrov 95000
+Sidorov 105000
+Silver 250000
+Brown 19500
